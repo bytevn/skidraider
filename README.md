@@ -1,5 +1,6 @@
 # Skid Raider
-Lastest Build: 06/03/2024 - Since 2022
+# The first Discord raid tool didn't use a user interface but utilized a Discord selfbot
+Lastest Build: 07/08/2024 - Since 2022
 
 # 07/08/2024
 Skid Selfbot
