@@ -1,7 +1,8 @@
 # Skid Raider
 # The first Discord raid tool didn't use a user interface but utilized a Discord selfbot
 # Please give it a star! ⭐️
-https://youtu.be/0bniajz02Co
+Showcase: https://youtu.be/0bniajz02Co
+
 Lastest Build: 07/08/2024 - Since 2022
 
 # 07/08/2024
