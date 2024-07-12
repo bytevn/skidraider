@@ -5,6 +5,17 @@ Showcase: https://youtu.be/0bniajz02Co
 
 Lastest Build: 07/08/2024 - Since 2022
 
+# 07/12/2024
+Skid Selfbot
++ Update
+
+# 07/10/2024
+Skid Selfbot
++ changed new icon
++ changed headers (en-US)
++ fixed server leaver
++ fixed nick changer
+
 # 07/08/2024
 Skid Selfbot
 + update
