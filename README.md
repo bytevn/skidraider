@@ -3,7 +3,7 @@
 # Please give it a star! ⭐️
 Showcase: https://youtu.be/0bniajz02Co
 
-Lastest Build: 07/08/2024 - Since 2022
+Lastest Build: 07/12/2024 - Since 2022
 
 # 07/12/2024
 Skid Selfbot
