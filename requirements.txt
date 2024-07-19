@@ -1,0 +1,9 @@
+plyer
+httpx
+nuitka
+requests
+pypresence
+tls_client
+pycryptodome
+websocket-client
+discord.py==1.7.0
