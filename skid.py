@@ -625,7 +625,7 @@ try:
             'Sec-Fetch-Site': 'same-origin',
         }
 
-        cookies = dict(session.get(f"https://discord.com/api/v9/users/@me", headers=headers).cookies); cookies["__cf_bm"] = "0duPxpWahXQbsel5Mm.XDFj_eHeCKkMo.T6tkBzbIFU-1679837601-0-AbkAwOxGrGl9ZGuOeBGIq4Z+ss0Ob5thYOQuCcKzKPD2xvy4lrAxEuRAF1Kopx5muqAEh2kLBLuED6s8P0iUxfPo+IeQId4AS3ZX76SNC5F59QowBDtRNPCHYLR6+2bBFA=="; cookies["locale"] = "vi"
+        cookies = dict(session.get(f"https://discord.com/api/v9/users/@me", headers=headers).cookies)
         try:
             headers["Cookie"] = f'__dcfduid={cookies["__dcfduid"]}; __sdcfduid={cookies["__sdcfduid"]}; __cfruid={cookies["__cfruid"]}; __cf_bm={cookies["__cf_bm"]}; locale={cookies["locale"]}'
             headers['Referer'] = f"https://discord.com/channels/{guild_id}/{channel_id}"
